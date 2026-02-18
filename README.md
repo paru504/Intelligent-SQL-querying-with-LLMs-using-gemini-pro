@@ -1,0 +1,1 @@
+# Intelligent-SQL-querying-with-LLMs-using-gemini-pro
